@@ -1,0 +1,12 @@
+# data collection and annotation (run locally)
+pandas
+pyarrow
+requests
+anthropic
+
+# training and evaluation (run on a GPU, e.g. Kaggle T4)
+torch
+transformers
+accelerate
+numpy
+matplotlib
